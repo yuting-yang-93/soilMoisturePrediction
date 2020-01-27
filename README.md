@@ -9,6 +9,6 @@ for sites, where no in situ sensors are available.
 
 ## Installation
 Before runing the project, please install the packages below:
-(```Java
+```Java
 pip install keras
-```)
+```
