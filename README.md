@@ -46,5 +46,6 @@ Google Colab
 
 3. run pipeline.py
 -- predict the deep soil moisture by Linear Regression, Exponentially Weighted Linear Regression and deep learning LSTM model
--- In terms of LSTM model, Bayesian Optimization Techinique is used for hyper-parameter tuning. The optimal weight and train-val-loss plot for a set of hyper-parametres will be stored in the local path after given epochs
+-- In terms of LSTM model, Bayesian Optimization Techinique is used for hyper-parameter tuning. 
+   The optimal weight and train-val-loss plot for a set of hyper-parametres will be stored in the local path after given epochs
 ```
