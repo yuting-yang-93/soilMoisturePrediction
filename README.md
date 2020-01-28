@@ -8,20 +8,25 @@ deep soil moisture at depths of 20, 50 and 100 cm by using surface soil moisture
 for sites, where no in situ sensors are available. 
 
 ## Requirement
-* Environment
+### Environment
 ```
 python: 3.6
 ```
-
-* Data preparation and preprocessing
-** basic packages: pandas, numpy
-** data collection:
+### IDE
+```
+Pycharm
+jupyter notebook
+Google Colab
+```
+### Data preparation and preprocessing
+#### basic packages: pandas, numpy
+#### data collection:
 ```
   pygeogrids: 0.2.5
   pytesmo: 0.6.11
   ismn: 0.3
 ```
-** data preprocessing:
+#### data preprocessing:
 ```
   scikit-learn: 0.18.1
 ```
