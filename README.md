@@ -40,7 +40,9 @@ Google Colab
 ```
 ### Plot
 ```
-  keras: 2.2.5
+ matplotlib
+ plotly
+ pyecharts
 ```
 
 ## Usage
@@ -51,9 +53,10 @@ Google Colab
 2. run pieline_generatedData.py
 -- merge the ismn data by each station 
 -- scrap the SoilGrid data from webpage
--- scrap the coordinate information for each station and store it as csv file.
--- merge ismn and SoilGrid by coordinate information and store it as csv file.
+-- scrap the coordinate information for each station and store it as CSV file.
+-- merge ismn and SoilGrid by coordinate information and store it as CSV file.
 
 3. run pipeline.py
-
+-- predict the deep soil moisture by Linear Regression, Exponentially Weighted Linear Regression and deep learning LSTM model
+-- In terms of LSTM model, Bayesian Optimization Techinique is used for hyper-parameter tuning. And the optimal weight will be stored in the local path.
 ```
