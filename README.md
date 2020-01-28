@@ -12,3 +12,16 @@ for sites, where no in situ sensors are available.
 ```
 python: 3.6
 ```
+
+* Data preparation and preprocessing
+** basic packages: pandas, numpy
+** data collection:
+```
+  pygeogrids: 0.2.5
+  pytesmo: 0.6.11
+  ismn: 0.3
+```
+** data preprocessing:
+```
+  scikit-learn: 0.18.1
+```
