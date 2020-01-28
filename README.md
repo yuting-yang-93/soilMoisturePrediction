@@ -45,7 +45,12 @@ Google Colab
 -- merge ismn and SoilGrid by coordinate information and store it as CSV file.
 
 3. run pipeline.py
--- predict the deep soil moisture by Linear Regression, Exponentially Weighted Linear Regression and deep learning LSTM model
+-- predict the deep soil moisture by Linear Regression, Exponentially Weighted Linear Regression and deep learning LSTM model.
 -- In terms of LSTM model, Bayesian Optimization Techinique is used for hyper-parameter tuning. 
-   The optimal weight and train-val-loss plot for a set of hyper-parametres will be stored in the local path after given epochs
+   The optimal weight for a set of hyper-parametres will be stored in the local path.
+   The train-val-loss plot will be also generated after given epochs to check whether overfitting.
 ```
+
+## Questions
+if you have any question, you can open a issue or email yuting.yang93@gmail.com
+if you have any good suggestions, you can PR or email me.
