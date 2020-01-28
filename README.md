@@ -30,6 +30,7 @@ Google Colab
   pytesmo: 0.6.11
   ismn: 0.3
   scikit-learn: 0.18.1
+  tensorflow: 1.14.0
   keras: 2.2.5
 ```
 
