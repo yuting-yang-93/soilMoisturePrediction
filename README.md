@@ -7,8 +7,8 @@ on its historical data. Therefore, the purpose of this project is to predict hou
 deep soil moisture at depths of 20, 50 and 100 cm by using surface soil moisture
 for sites, where no in situ sensors are available. 
 
-## Installation
-Before runing the project, please install the packages below:
-```Java
-pip install keras
+## Requirement
+* Environment
+```
+python: 3.6
 ```
