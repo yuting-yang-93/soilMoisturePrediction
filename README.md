@@ -50,7 +50,9 @@ Google Colab
    The optimal weight for a set of hyper-parametres will be stored in the local path.
    The train-val-loss plot will be also generated after given epochs to check whether overfitting.
 ```
+## License
+MIT @yuting-yang-93
 
 ## Questions
-if you have any question, you can open a issue or email yuting.yang93@gmail.com
-if you have any good suggestions, you can PR or email me.
+-- if you have any question, you can open a issue or email yuting.yang93@gmail.com
+-- if you have any good suggestions, you can PR or email me.
