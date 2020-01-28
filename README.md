@@ -54,5 +54,5 @@ Google Colab
 MIT @yuting-yang-93
 
 ## Questions
-> if you have any question, you can open a issue or email yuting.yang93@gmail.com
-> if you have any good suggestions, you can PR or email me.
+if you have any question, you can open a issue or email yuting.yang93@outlook.com.    
+if you have any good suggestions, you can PR or email me.
